@@ -4,14 +4,18 @@ Testing
 
 * Inicio
    * Verificar que cada uno de los botones se dirija a la pantalla correspondiente. 
+	* Lista - 
+	* Agregar -
    * Que no se quite la pantalla en los primeros 10 segundos. 
 
 
 * Agregar 
-   * Que los cuadros de textos sean funcionales. 
-   * Que el botón de imagen si funcione como es debido. 
+   * Que los cuadros de textos sean funcionales. - Si
+   * Que el botón de imagen si funcione como es debido. - Se eliminó la opción
    * Que el botón de “Listo” termine la tarea de agregar el libro y que el botón de “Regresar” vuelva a la pantalla de inicio. 
-   * Que la pantalla no se quite en los primero 10 segundos.
+	* Regresar - Si
+	* Listo - No
+   * Que la pantalla no se quite en los primero 10 segundos. - Listo
 
 
 * Lista
@@ -24,6 +28,8 @@ Testing
 
 
 * Editar
-   * Que se puedan agregar los cambios deseados y se guarde la información.
+   * Que se puedan agregar los cambios deseados y se guarde la información. 
    * Que cada uno de los botones cumpla con su función. 
-   * Que no se quite en los primeros 10 segundos.
+	* Regresar - Si
+	* Listo - No 
+   * Que no se quite en los primeros 10 segundos. - Listo 
