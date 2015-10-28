@@ -1,0 +1,29 @@
+Testing
+- Se llevará a cabo por Stephanie y Celina. 
+
+
+* Inicio
+   * Verificar que cada uno de los botones se dirija a la pantalla correspondiente. 
+   * Que no se quite la pantalla en los primeros 10 segundos. 
+
+
+* Agregar 
+   * Que los cuadros de textos sean funcionales. 
+   * Que el botón de imagen si funcione como es debido. 
+   * Que el botón de “Listo” termine la tarea de agregar el libro y que el botón de “Regresar” vuelva a la pantalla de inicio. 
+   * Que la pantalla no se quite en los primero 10 segundos.
+
+
+* Lista
+   * Que la lista de los libros tenga el scroll.
+   * La barra de búsqueda te lleve al libro deseado.
+   * Que el botón de Editar te lleve a la pantalla correspondiente.
+   * Que el botón de Eliminar te descarte el libro que deseas.
+   * Que el botón de Atrás te regrese a la pantalla anterior. 
+   * Que la pantalla no se quite en los primeros 10 segundos.
+
+
+* Editar
+   * Que se puedan agregar los cambios deseados y se guarde la información.
+   * Que cada uno de los botones cumpla con su función. 
+   * Que no se quite en los primeros 10 segundos.
